@@ -5,9 +5,9 @@ A simple react project to implement an expense tracker without a backend.It uses
 - npm install
 
 - Run on http://localhost:3000
-    npm start
+    - npm start
 
 
 
 - Build for prod
-    npm run build
+    - npm run build
